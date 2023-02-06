@@ -12,3 +12,5 @@ Vypočítejte globální průměrnou hodnotu za dlouhodobé měření pro:
 * TMA - denní maximum
 * TMI - denní minimum
 
+### 3
+Rozšřite výpočet z předchozího bodu o hodnoty, za jednotlivé roky.
